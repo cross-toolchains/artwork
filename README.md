@@ -15,6 +15,8 @@
 | **Favicon** | <img src="logo/favicon.svg" width="44" /> | `logo/favicon.svg` | Browser tab icon & app badge |
 | **Avatar (Dark)** | <img src="avatar/avatar-dark.svg" width="44" /> | `avatar/avatar-dark.svg` | 512×512 GitHub organization & social avatar (dark) |
 | **Avatar (Light)** | <img src="avatar/avatar-light.svg" width="44" /> | `avatar/avatar-light.svg` | 512×512 avatar (light) |
+| **Wordmark (Dark)** | <img src="wordmark/wordmark-dark.svg" height="28" /> | `wordmark/wordmark-dark.svg` | Horizontal lockup for dark navbars & headers |
+| **Wordmark (Light)** | <img src="wordmark/wordmark-light.svg" height="28" /> | `wordmark/wordmark-light.svg` | Horizontal lockup for light navbars & headers |
 
 ## Brand Palette — Pastel Macaron
 
